@@ -15,7 +15,8 @@ s = "Python syntax highlighting"
 print s
 ``````
 
-
+var s = "JavaScript syntax highlighting";
+alert(s);
 
 Примеры кода *
         Опыт работы. Junior Dev может указать пройденные курсы и тренинги, перечислить учебные проекты, или проекты, выполненные на фрилансе с указанием использованных
