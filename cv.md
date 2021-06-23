@@ -7,8 +7,10 @@ Student, learn: HTML, CSS, JS, GIT, GitHub, and other products.
 I study slowly but confidently.
 Basics skills: HTML, CSS, GIT, GitHub, VSCode.
 Examples of code:
-
-
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+``````
 Примеры кода *
         Опыт работы. Junior Dev может указать пройденные курсы и тренинги, перечислить учебные проекты, или проекты, выполненные на фрилансе с указанием использованных
         навыков и ссылками на исходный код.**
