@@ -1,10 +1,10 @@
 # _Curriculum vitae_
 ## Yaroslav Ruban
-#### +79825368044
+#### +79825368044, e-mail: yaroslavruban@mail.ru
 ##### Goal: Get a job frontend developer.
 ##### Strengths: purposeful, charismatic, responsible.
 ##### Student, learn: HTML, CSS, JS, GIT, GitHub, and other products.
-##### I study slowly but confidently.
+##### >I study slowly but confidently.
 ##### Basics skills: HTML, CSS, GIT, GitHub, VSCode.
 ##### Examples of code:
 ```javascript
