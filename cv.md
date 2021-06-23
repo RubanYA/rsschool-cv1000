@@ -1,12 +1,16 @@
 # _Curriculum vitae_
 ## Yaroslav Ruban
 #### +79825368044, e-mail: yaroslavruban@mail.ru
-##### __Goal:__ Get a job frontend developer.
-##### Strengths: purposeful, charismatic, responsible.
-##### Student, learn: HTML, CSS, JS, GIT, GitHub, and other products.
+__Goal:__ Get a job frontend developer.
+
+__Strengths:__ purposeful, charismatic, responsible.
+
+__Student, learn:__ HTML, CSS, JS, GIT, GitHub, and other products.
 > I study slowly but confidently.
-##### Basics skills: HTML, CSS, GIT, GitHub, VSCode.
-##### Examples of code:
+
+__Basics skills:__ HTML, CSS, GIT, GitHub, VSCode.
+
+__Examples of code:__
 ```javascript
 var s = "JavaScript syntax highlighting";
 alert(s);
@@ -25,11 +29,14 @@ body {
     font-size: 14px;
 }
 ```
-##### Work experience: framework - Personal page preparation on the University website on the ready template: [Google](https://masters.donntu.org/2012/igg/ruban/indexe.htm)
-##### __Completed learning:__ 
+
+__Work experience:__ framework - Personal page preparation on the University website on the ready template: [Google](https://masters.donntu.org/2012/igg/ruban/indexe.htm)
+
+__Completed learning:__ 
 * 1994–1997, secondary school N 1, Kirovskoe,
 * 1997–2004, secondary school N 2, Kirovskoe,
 * 2004–2007, Enakievo Polytechnic technical school,
 * 2007–2011, Donetsk National Technical University, bachelor speciality "Mining of mineral deposits" speciality "Geomechanical processes of mining",
 * 2011–2012, magistracy speciality "Mining of mineral deposits" .
-##### English – basic. 
+
+__English – basic.__ 
