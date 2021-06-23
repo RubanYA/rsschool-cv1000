@@ -1,4 +1,4 @@
-Curriculum vitae
+#Curriculum vitae
 Yaroslav Ruban
 +79825368044
 Goal: Get a job frontend developer.
