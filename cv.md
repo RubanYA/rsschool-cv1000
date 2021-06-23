@@ -32,9 +32,4 @@ body {
 * 2004–2007, Enakievo Polytechnic technical school,
 * 2007–2011, Donetsk National Technical University, bachelor speciality "Mining of mineral deposits" speciality "Geomechanical processes of mining",
 * 2011–2012, magistracy speciality "Mining of mineral deposits" .
-
-      
-      
-      Образование (включая курсы, семинары, лекции, онлайн-обучение)
-        Английский язык (уровень английского языка, если была языковая практика, расскажите о ней)
-
+##### English – basic. 
