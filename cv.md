@@ -39,4 +39,4 @@ __Completed learning:__
 * 2007–2011, Donetsk National Technical University, bachelor speciality "Mining of mineral deposits" speciality "Geomechanical processes of mining",
 * 2011–2012, magistracy speciality "Mining of mineral deposits" .
 
-__English – basic.__ 
+__English – basic (A-2).__ 
