@@ -1,0 +1,126 @@
+body {
+  background: rgb(245, 255, 245);
+  width: 1000px;
+  margin: auto;
+}
+
+.block1 {
+  background: #bc8e5c;
+  padding: 20px;
+  color: #fff;
+  font-family: Arial, sans-serif;
+}
+.block1 h1 {
+  color: #feea3b;
+  overflow: hidden;
+  font-weight: normal;
+  margin-top: 0;
+  text-align: center;
+}
+.block1 h1::before,
+.block1 h1::after {
+  content: "";
+  background: #feea3b;
+  display: inline-block;
+  height: 1px;
+  position: relative;
+  vertical-align: middle;
+  width: 50%;
+}
+.block1 h1::before {
+  right: 10px;
+  margin-left: -50%;
+}
+.block1 h1::after {
+  left: 10px;
+  margin-right: -50%;
+}
+
+.photos {
+  width: 46.9%;
+  background: #faf2e1; /* Цвет фона */
+  color: rgb(238, 216, 17); /* Цвет текста */
+  display: inline-block; /* Выстраиваем по горизонтали */
+  padding: 10px; /* Поля в блоке */
+  margin: auto; /* Расстояние между блоков */
+  text-align: center; /* Выравниваем по центру */
+  border: 5px solid #ffec44; /* Параметры рамки */
+  position: relative; /* Относительное позиционирование */
+  /* transition: 3s; Время анимации */
+}
+img:hover {
+  /* z-index: 10; Поверх всех картинок */
+  transform: scale(1.5); /*Масштабирование на 50%*/
+  border-radius: 54% 46% 47% 53% / 24% 55% 45% 76%;
+}
+
+h2 {
+  background: rgb(160, 247, 160); /* Цвет фона */
+  padding: 40px; /* Поля вокруг текста */
+  border: 3px solid #79c1f5; /* Параметры синей рамки */
+  outline: 3px solid #ebc46e; /* Параметры рамки */
+  outline-offset: -20px; /* Смещение рамки */
+  text-align: center;
+  clear: both; /*чтоб убрать наложение на вышерасположенный блок*/
+  color: rgb(95, 91, 91);
+}
+
+table {
+  width: 100%; /* Ширина таблицы */
+  border-collapse: collapse;
+  background: #b6dec2; /* Цвет фона таблицы */
+  margin: auto; /* Выравниваем по центру */
+}
+th,
+td {
+  border: 2px solid #fff; /* Параметры рамки */
+  padding: 7px; /* Поля в ячейках */
+  width: 50%;
+}
+
+.skillsexperience {
+  padding: 2px; /* Поля вокруг текста */
+  background: #008eb0; /* Цвет фона */
+  color: #fff; /* Цвет текста */
+}
+
+.masters {
+  padding: 2px; /* Поля вокруг текста */
+  border: 1px dotted rgb(96, 12, 231); /* Параметры рамки */
+  background: #d8b36e; /* Цвет фона */
+  white-space: nowrap; /* Запрещаем перенос текста */
+}
+
+.block {
+  border: 1px solid #ddd;
+}
+.block h3 {
+  background: #e4ce8f;
+  color: #444;
+  text-align: center;
+  text-transform: uppercase;
+  padding: 10px;
+  margin: 0;
+  font-size: 16px;
+}
+.block-content ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+.block-content li {
+  border-top: 1px solid #ddd;
+}
+.block-content li:first-child {
+  border-top: none;
+}
+.block-content a {
+  color: #444;
+  text-decoration: none;
+  display: block;
+  padding: 5px 10px;
+}
+.block-content a:hover {
+  background: #bc8e5c;
+  color: #fff;
+}
