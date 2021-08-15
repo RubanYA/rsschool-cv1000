@@ -1,0 +1,179 @@
+body {
+  position: relative;
+  width: 1350px;
+  margin: auto;
+}
+
+.block1 {
+  background: #c4ac93;
+  padding: 10px;
+  color: #fff;
+  font-family: Arial, sans-serif;
+  position: absolute;
+  width: 300px;
+  left: 55px;
+  top: 5px;
+  border: 5px solid #ffec44; /* Параметры рамки */
+  border-radius: 24% 55% 45% 76% / 54% 46% 47% 53%;
+}
+.block1 h1 {
+  color: #feea3b;
+  overflow: hidden;
+  font-weight: normal;
+  margin-top: 1px;
+  text-align: center;
+}
+.banner {
+  background-image: url("../img/background.jpg");
+  background-position: center center;
+  background-size: auto;
+  padding-top: 300px;
+  padding-bottom: 400px;
+}
+
+.photo {
+  width: 180px;
+  position: absolute;
+  left: 50px;
+  top: 100px;
+  background: #ce8d6f; /* Цвет фона */
+  color: rgb(238, 216, 17); /* Цвет текста */
+  padding: 5px; /* Поля в блоке */
+  text-align: center; /* Выравниваем по центру */
+  border: 5px solid #ffec44; /* Параметры рамки */
+  border-radius: 54% 46% 47% 53% / 24% 55% 45% 76%;
+}
+.photo img {
+  width: 80%;
+  height: 80%;
+  border-radius: 58%;
+}
+
+.content h2 {
+  position: absolute;
+  left: 350px;
+  top: 50px;
+  border-radius: 54% 46% 47% 53% / 24% 55% 45% 76%;
+  background: rgb(160, 247, 160); /* Цвет фона */
+  padding: 40px; /* Поля вокруг текста */
+  border: 3px solid #79c1f5; /* Параметры синей рамки */
+  outline: 3px solid #ebc46e; /* Параметры рамки */
+  outline-offset: -20px; /* Смещение рамки */
+  text-align: center;
+  clear: both; /*чтоб убрать наложение на вышерасположенный блок*/
+  color: rgb(95, 91, 91);
+}
+.content h3 {
+  position: absolute;
+  left: 280px;
+  top: 200px;
+  width: 300px;
+  border-radius: 24% 55% 45% 76% / 54% 46% 47% 53%;
+  background: rgb(160, 247, 160); /* Цвет фона */
+  padding: 30px; /* Поля вокруг текста */
+  border: 3px solid #79c1f5; /* Параметры синей рамки */
+  outline: 3px solid #ebc46e; /* Параметры рамки */
+  outline-offset: -20px; /* Смещение рамки */
+  text-align: center;
+  clear: both; /*чтоб убрать наложение на вышерасположенный блок*/
+  color: rgb(95, 91, 91);
+}
+
+table {
+  width: 480px; /* Ширина таблицы */
+  position: absolute;
+  left: 260px;
+  top: 340px;
+  border-collapse: collapse;
+  background: #b6dec2; /* Цвет фона таблицы */
+  margin: auto; /* Выравниваем по центру */
+}
+th,
+td {
+  border: 2px solid rgb(255, 255, 255); /* Параметры рамки */
+  padding: 7px; /* Поля в ячейках */
+  width: 30%, 70%;
+}
+
+.skillsexperience {
+  padding: 2px; /* Поля вокруг текста */
+  background: #008eb0; /* Цвет фона */
+  color: #fff; /* Цвет текста */
+}
+
+.study {
+  position: absolute;
+  left: 30px;
+  top: 500px;
+  width: 300px;
+  border-radius: 24% 55% 45% 76% / 54% 46% 47% 53%;
+  background: rgb(160, 247, 160); /* Цвет фона */
+  padding: 30px; /* Поля вокруг текста */
+  border: 3px solid #79c1f5; /* Параметры синей рамки */
+  outline: 3px solid #ebc46e; /* Параметры рамки */
+  outline-offset: -20px; /* Смещение рамки */
+  text-align: center;
+  clear: both; /*чтоб убрать наложение на вышерасположенный блок*/
+  color: rgb(95, 91, 91);
+}
+.Basics {
+  position: absolute;
+  left: 430px;
+  top: 500px;
+  width: 400px;
+  border-radius: 54% 46% 47% 53% / 24% 55% 45% 76%;
+  background: rgb(255, 199, 44); /* Цвет фона */
+  padding: 30px; /* Поля вокруг текста */
+  border: 3px solid #f57979; /* Параметры рамки */
+  text-align: center;
+}
+
+.masters > a {
+  text-decoration: none;
+  color: #ff0000;
+}
+
+.block {
+  border: 1px solid #ddd;
+}
+.block h3 {
+  background: #e4ce8f;
+  color: #444;
+  text-align: center;
+  text-transform: uppercase;
+  padding: 10px;
+  margin: 0;
+  font-size: 16px;
+}
+.block-content ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+.block-content li {
+  border-top: 1px solid #ddd;
+}
+.block-content li:first-child {
+  border-top: none;
+}
+.block-content a {
+  color: #444;
+  text-decoration: none;
+  display: block;
+  padding: 5px 10px;
+}
+.block-content a:hover {
+  background: #bc8e5c;
+  color: #fff;
+}
+.github {
+  color: rgb(80, 80, 80);
+}
+footer {
+  background: #e6e6e6;
+  color: #008eb0;
+}
+.github_link > a {
+  text-decoration: none;
+  color: #ff0000;
+}
