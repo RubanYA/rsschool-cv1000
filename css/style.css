@@ -29,6 +29,7 @@ body {
   background-size: auto;
   padding-top: 300px;
   padding-bottom: 400px;
+  color: rgb(24, 53, 22);
 }
 
 .photo {
@@ -92,7 +93,6 @@ th,
 td {
   border: 2px solid rgb(255, 255, 255); /* Параметры рамки */
   padding: 7px; /* Поля в ячейках */
-  width: 30%, 70%;
 }
 
 .skillsexperience {
